@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=arraySize
+comment0.target=loadArray(int)
+comment1.params=
+comment1.target=void\ fillEven()
+comment2.params=
+comment2.target=void\ fillRandom()
+numComments=3
